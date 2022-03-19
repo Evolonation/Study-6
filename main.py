@@ -1,5 +1,2 @@
 import os
-os.system('python function_20373389.py')
-
-
-???
+os.system('python function_学号.py')
